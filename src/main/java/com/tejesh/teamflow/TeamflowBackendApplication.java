@@ -9,5 +9,4 @@ public class TeamflowBackendApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TeamflowBackendApplication.class, args);
 	}
-
 }
